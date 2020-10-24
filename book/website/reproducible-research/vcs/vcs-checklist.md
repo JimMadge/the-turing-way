@@ -1,5 +1,10 @@
 # Checklists
 
+In this chapter we have discussed using version control with a focus on Git. We
+have covered the Git workflow, Git commands and best practises. Here, we
+summarise this into a set of checklists to help make the most of version control
+in your own projects and when contributing to someone else's.
+
 ## Make use of Git
 
 - [ ] Make your project version controlled by initialising a Git repository in its directory using `git init`.
