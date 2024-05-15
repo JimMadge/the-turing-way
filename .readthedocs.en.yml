@@ -11,9 +11,9 @@ build:
   jobs:
     pre_build:
       # Generate Sphinx conf.py using JupyterBook
-      - "jupyter-book config sphinx book/website"
+      - "jupyter-book config sphinx book/website/en"
       # Write pathways modifications
-      - "pathways book/website"
+      # - "pathways book/website"
 
 sphinx:
   configuration: book/website/conf.py
