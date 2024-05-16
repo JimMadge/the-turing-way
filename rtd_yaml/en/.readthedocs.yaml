@@ -16,7 +16,7 @@ build:
       # - "pathways book/website"
 
 sphinx:
-  configuration: book/website/conf.py
+  configuration: book/website/en/conf.py
 
 # formats:
 #    - pdf
